@@ -1,0 +1,11 @@
+Enter the number of elements you want to store: 4
+Enter the elements of the array : 
+4
+5
+7
+3
+Array elements are : 
+array[0] = 4
+array[1] = 5
+array[2] = 7
+array[3] = 3
