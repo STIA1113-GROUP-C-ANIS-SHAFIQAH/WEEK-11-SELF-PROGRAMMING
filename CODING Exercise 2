@@ -1,0 +1,24 @@
+package selfProgramming;
+public class Exercise2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int[] list = { 2, 5, 16, 18, 21, 40, 53, 68, 72, 83, 98 };
+		
+		System.out.println("The even numbers of array : ");
+		
+		for (int i = 0; i < list.length; i++)
+		{
+			
+		if (list[i] % 2 == 0) {
+		
+		System.out.print(list[i] + " ");
+		}
+		}
+		
+			System.out.println(); 
+		
+	}
+
+}
