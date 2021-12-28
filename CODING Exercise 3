@@ -1,0 +1,19 @@
+package selfProgramming;
+
+public class Exercise3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int[] anArray;
+		
+		anArray = new int[10];
+		
+		for (int i = 0; i < anArray.length; i++ ) {
+			anArray[i] = i;
+			System.out.print(anArray[i] + " ");
+		}
+		System.out.println();
+	}
+
+}
